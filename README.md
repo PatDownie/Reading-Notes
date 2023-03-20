@@ -23,4 +23,4 @@ A growth mindset is a mindset that constantly strives for improvement, it sees:
 [MY REPOS](https://github.com/PatDownie?tab=repositories)
 
 ## Blue footed booby
-![booby](https://www.aquaexpeditions.com/wp-content/uploads/2021/12/1.jpg)
+![bird](https://www.aquaexpeditions.com/wp-content/uploads/2021/12/1.jpg)
