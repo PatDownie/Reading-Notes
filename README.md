@@ -10,13 +10,11 @@ I am Patrick, an aspiring coder from the Wirral who is a fan of things that are 
 3. Screen printing
 4. Photography
 
-## GROWTH MINDSET
-
-A growth mindset is a mindset that constantly strives for improvement, it sees:
-
-- Obstacles as challenges
-- Lack of knowledge as an opportunity to learn
-- Worry as excitement.
+## Reading Notes
+### 102
+- [Class 01](https://PatDownie.github.io/Reading-Notes/code-102/102class01)
+- [Class 02](https://PatDownie.github.io/Reading-Notes/code-102/102class02)
+- [Class 03](https://PatDownie.github.io/Reading-Notes/code-102/102class03)
 
 ## Repos
 
